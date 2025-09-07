@@ -1,8 +1,12 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+My name is Azmel, and I am a young Video Game Developer who is passionate about all thing Unity and Game design!
+
+- 🔭 I’m currently working on Indie video game dev.
+- 🌱 I’m currently learning Unity, Blender, and FL Studio.
+- 👯 I’m looking to collaborate on Video game development,
+- Contact me at [AzmelEnriquez135@gmail.com]
+
 <!--
 **Azitel/Azitel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
